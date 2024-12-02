@@ -37,7 +37,7 @@ python solution.py
 
 | Day | Part 1 | Part 2 | Notes |
 |-----|---------|---------|-------|
-| [Day 1](https://github.com/amanverasia/Advent-Of-Code/blob/main/Day%201/README.md) | ⭐ | ⭐ | So far so easy |
+| [Day 1](https://github.com/amanverasia/Advent-Of-Code/blob/main/Day%201/) | ⭐ | ⭐ | So far so easy |
 | [Day 2]() |  |  | |
 | [Day 3]() |  |  | |
 | [Day 4]() |  |  | |
